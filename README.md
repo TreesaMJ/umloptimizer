@@ -5,7 +5,7 @@
 <ul>
     <li>Clone this repo</li>
     <li>Rename application/config/database.example.php to application/config/database.php and edit its content to your needs</li>
-    <li>...</li>
+    
 </ul>
 <h2>Requirments</h2>
 <ul>
