@@ -5,13 +5,12 @@
 <ul>
     <li>Clone this repo</li>
     <li>Rename application/config/database.example.php to application/config/database.php and edit its content to your needs</li>
-    
 </ul>
 <h2>Requirments</h2>
 <ul>
     <li>PHP 5+</li>
     <li>MYSQL</li>
-    <li>Apache</li>
+    
 </ul>
 <h2>Tools And Libraries Used In this Project</h2>
 <ul>
