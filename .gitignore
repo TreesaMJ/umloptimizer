@@ -4,7 +4,10 @@ application/cache/*
 application/config/database.php
 !application/cache/index.html
 !application/cache/.htaccess
-
+composer.json
+contributing.md
+license.txt
+readme.rst
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
